@@ -1,0 +1,23 @@
+export const nameBand = ' JEFFERSON TADEO';
+export const nameSongs = [
+	"BUTTERFLY", /*1*/
+	"ÁNGELES FUIMOS", /*2*/
+	"EL PODER ES NUESTRO", /*3*/
+	"PEGASUS FANTASY", /*4*/
+	"ESTA NOCHE", /*5*/
+	"SOLDIER DREAM", /*6*/
+	"CUANDO TÚ NO ESTÁS", /*7*/
+	"CHALA HEAD CHALA", /*8*/
+	"MI CORAZÓN ENCANTADO", /*9*/
+	"EL BARÓN ROJO", /*10*/
+	"WILD FLOWERS", /*11*/
+	"THE WORLD", /*12*/
+	"QUEREMOS LIBERTAD", /*13*/
+	"BLUE DREAM", /*14*/
+	"NO ME RENDIRÉ", /*15*/
+	"GUREN NO YUMIYA", /*16*/
+	"THUNDERCATS", /*17*/
+	"THE BIGGEST FIGHT", /*18*/
+	"EL DÍA DEL DESTINO", /*19*/
+	"LIMIT BREAK SURVIVOR", /*20*/
+]
